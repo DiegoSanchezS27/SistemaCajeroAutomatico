@@ -32,7 +32,7 @@ public class Principal {
 			System.out.println("1---ALTA CLIENTE");
 			System.out.println("2---CONSULTAR SALDO");
 			System.out.println("3---DEPOSTIO EN EFECTIVO");
-			System.out.println("4---RETIRO EN EFECTIVO");
+			System.out.println("4---RETIRO EN EFECTIVO EN PESOS MEXICANOS");
 			System.out.println("5---SALIR");
 
 			lectura = new Scanner(System.in);
